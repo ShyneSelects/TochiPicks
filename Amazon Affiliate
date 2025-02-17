@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tochi's Amazon Finds</title>
+    <style>
+        body { font-family: 'Poppins', sans-serif; text-align: center; background-color: #fffbf2; color: #333; }
+        .container { max-width: 900px; margin: auto; padding: 20px; background: white; box-shadow: 0 0 15px rgba(0,0,0,0.1); border-radius: 10px; }
+        h1 { color: #ff6600; font-family: 'Dancing Script', cursive; }
+        .product { margin: 20px 0; padding: 15px; border-bottom: 2px solid #ffcc99; }
+        .product img { max-width: 100%; height: auto; border-radius: 10px; }
+        .product a { display: inline-block; margin-top: 10px; color: white; background: #ff6600; padding: 12px; text-decoration: none; border-radius: 5px; font-weight: bold; }
+        .product a:hover { background: #cc5500; }
+        .category { font-size: 20px; font-weight: bold; margin-top: 20px; color: #ff3300; }
+        .youtube-video { margin-top: 20px; }
+    </style>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&family=Dancing+Script:wght@500&display=swap" rel="stylesheet">
+</head>
+<body>
+    <div class="container">
+        <h1>Welcome to Tochi's Amazon Finds! 💖</h1>
+        <p>Discover my top Amazon picks and support my content! 😊</p>
+        
+        <div class="category">✨ Beauty & Self-Care ✨</div>
+        <div class="product">
+            <h2>Skincare Glow Kit</h2>
+            <img src="your-image-url.jpg" alt="Beauty Product">
+            <p>Revamp your self-care routine with this skincare must-have!</p>
+            <a href="your-affiliate-link" target="_blank">Buy on Amazon</a>
+        </div>
+
+        <div class="category">👗 Fashion & Shapewear 👗</div>
+        <div class="product">
+            <h2>Body Sculpting Shapewear</h2>
+            <img src="your-image-url.jpg" alt="Shapewear">
+            <p>Feel confident and stylish in this comfortable, seamless shapewear.</p>
+            <a href="your-affiliate-link" target="_blank">Buy on Amazon</a>
+        </div>
+
+        <div class="category">🍽️ Food & Kitchen 🍽️</div>
+        <div class="product">
+            <h2>Delicious Snack Box</h2>
+            <img src="your-image-url.jpg" alt="Food Item">
+            <p>A curated snack box for the ultimate food lover!</p>
+            <a href="your-affiliate-link" target="_blank">Buy on Amazon</a>
+        </div>
+
+        <div class="category">💇 Haircare Essentials and Wigs💇</div>
+        <div class="product">
+            <h2>Luxury Hair Growth Oil</h2>
+            <img src="your-image-url.jpg" alt="Haircare Product">
+            <p>Nourish your hair with this essential oil blend for stronger, shinier hair.</p>
+            <a href="your-affiliate-link" target="_blank">Buy on Amazon</a>
+        </div>
+
+        <div class="youtube-video">
+            <h2>🎥 Watch Me Try These Products! 🎥</h2>
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/YOUR_VIDEO_ID" frameborder="0" allowfullscreen></iframe>
+        </div>
+
+        <p><strong>Disclaimer:</strong> This website contains affiliate links, meaning I may earn a commission if you purchase through these links at no extra cost to you. Thank you for your support! 💕</p>
+    </div>
+</body>
+</html>
